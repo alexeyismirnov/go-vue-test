@@ -1,0 +1,1 @@
+export DB_PARAMS="user=admin password=123 dbname=go_vue_test sslmode=disable host=localhost port=6432"
